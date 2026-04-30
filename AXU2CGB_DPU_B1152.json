@@ -1,0 +1,5 @@
+{
+    "target"   : "DPUCZDX8G",
+    "dcf"      : "/workspace/CIFAR10_Vitis_AI/AXU2CGB_DPU_B1152.dcf",
+    "cpu_arch" : "arm64"
+}
